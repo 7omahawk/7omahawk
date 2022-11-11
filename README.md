@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Bhowmick A.K.A 7omahawk
+- 👋 Hi, I’m Rahul Bhowmick AKA 7omahawk
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate who has interested in Cyber Security
